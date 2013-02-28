@@ -1,0 +1,2 @@
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (271.1666ms)
+  MOPED: 127.0.0.1:27017 COMMAND      database=loco_development command={:dropDatabase=>1} (637.0392ms)
